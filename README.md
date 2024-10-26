@@ -1,4 +1,3 @@
-Name: Mark Jang
 
 Files Submitted:
 - tcpclient.py: TCP client implementation for the RPN calculator.
